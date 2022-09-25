@@ -43,10 +43,14 @@
   
   .articles-top {
     display: block;
-    height: 200px;
+    height: 250px;
   }
-  
-  .articles-top-left {
+
+  .yellow {
+    height: 50px;
+  }
+
+  .blue {
     height: 100px;
   }
   
